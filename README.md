@@ -33,7 +33,7 @@
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/>
-					<a>GitHub</a>
+					<div text-align: center>GitHub</div>
 				</figure>
 			</td>
 			<td>
