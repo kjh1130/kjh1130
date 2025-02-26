@@ -12,7 +12,7 @@
 ### About Me
 ---
 #### Contact
-<hr style="border: 1px solid #185a9d;">
+<hr style="border: 0.2px solid #185a9d;">
 
 
 ### Education🏫
