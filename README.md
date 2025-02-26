@@ -28,7 +28,7 @@
 ### Skills👨🏻‍💻
 ---
 <div align="center">
-	<table text-align="center">
+	<table style="margin: 0 auto; text-align: center;">
 		<tr>
 			<td>
 				<figure style="display: block; text-align: center;">
