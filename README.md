@@ -71,7 +71,7 @@
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/>
-					<div>SpringBoot</div>
+					<div text-align: center>SpringBoot</div>
 				</figure>
 			</td>
 			<td>
