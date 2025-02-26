@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 </div>
 
 <h3>About Me</h3>
-<h3 font-style="underline">Education</h3>
+<h3 width=200px border-bottom=2px>Education🏫</h3>
 <div>
   - Bachelor of Automotive Engineering in Hanyang University
 </div>
 <!-- <h3 align="center">Awards</h3> -->
-<h3>Skills</h3>
-<h3>My Projects</h3>
+<h3>Skills👨🏻‍💻</h3>
+<h3>My Projects💻</h3>
