@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 
 <h3 align="center">About Me</h3>
 <h3 align="center">Education</h3>
+<div>
+  - Bachelor of Automotive Engineering in Hanyang University
+</div>
 <!-- <h3 align="center">Awards</h3> -->
 <h3 align="center">Skills</h3>
 <h3 align="center">My Projects</h3>
