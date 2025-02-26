@@ -33,37 +33,37 @@
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/>
-					<figcaption>GitHub</figcaption>
+					<div>GitHub</div>
 				</figure>
 			</td>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
-					<figcaption>HTML</figcaption>
+					<div>HTML</div>
 				</figure>
 			</td>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
-					<figcaption>CSS</figcaption>
+					<div>CSS</div>
 				</figure>
 			</td>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
-					<figcaption>JavaScript</figcaption>
+					<div>JavaScript</div>
 				</figure>
 			</td>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
-					<figcaption>React</figcaption>
+					<div>React</div>
 				</figure>
 			</td>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
-					<figcaption>Java</figcaption>
+					<div>Java</div>
 				</figure>
 			</td>
 		</tr>
