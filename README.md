@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kjh1130&show_icons=true&theme=radical&bg_color=ffffff&title_color=blue&text_color=000000&icon_color=blue" height=192px />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjh1130&layout=compact&text_color=000000&title_color=000000" height=192px/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjh1130&layout=compact&text_color=blue&title_color=blue" height=192px/>
 </div>
 
 ### About Me
