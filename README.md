@@ -70,7 +70,7 @@
 		<tr>
 			<td>
 				<figure style="display: block; text-align: center;">
-					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/>
+					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot" align="center"/>
 					<div text-align: center>SpringBoot</div>
 				</figure>
 			</td>
