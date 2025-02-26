@@ -11,6 +11,8 @@
 
 ### About Me
 ---
+#### Contact
+--
 
 
 ### Education🏫
