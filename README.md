@@ -11,7 +11,7 @@
 
 ### Contact
 ---
-- GitHub: [JihyunKim](https://github.com/kjh1130)
+- GitHub: [kjh1130](https://github.com/kjh1130)
 - Email: kimwlgus001130@gmail.com
 
 
