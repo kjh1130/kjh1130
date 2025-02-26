@@ -28,42 +28,42 @@
 ### Skills👨🏻‍💻
 ---
 <div align="center">
-	<table style="margin: 0 auto; text_align: center; border_color: 2e949f">
+	<table style="margin: 0 auto; text-align: center; border: 2px solid #2e949f;">
 		<tr>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/>
-					<div text-align: center>GitHub</div>
+					<figcaption>GitHub</figcaption>
 				</figure>
 			</td>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
-					<div text-align: center>HTML</div>
+					<figcaption>HTML</figcaption>
 				</figure>
 			</td>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
-					<div text-align: center>CSS</div>
+					<figcaption>CSS</figcaption>
 				</figure>
 			</td>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
-					<div text-align: center>JavaScript</div>
+					<figcaption>JavaScript</figcaption>
 				</figure>
 			</td>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
-					<div text-align: center>React</div>
+					<figcaption>React</figcaption>
 				</figure>
 			</td>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
-					<div text-align: center>Java</div>
+					<figcaption>Java</figcaption>
 				</figure>
 			</td>
 		</tr>
@@ -71,36 +71,36 @@
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/>
-					<div text-align: center>SpringBoot</div>
+					<figcaption>SpringBoot</figcaption>
 				</figure>
 			</td>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
-					<div text-align: center>Python</div>
+					<figcaption>Python</figcaption>
 				</figure>
 			</td>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
-					<div text-align: center>MySQL</div>
+					<figcaption>MySQL</figcaption>
 				</figure>
 			</td>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
-					<div text-align: center>Docker</div>
+					<figcaption>Docker</figcaption>
 				</figure>
 			</td>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/>
-					<div text-align: center>C++</div>
+					<figcaption>C++</figcaption>
 				</figure>
 			</td>
 		</tr>
 	</table>
 </div>
-  
+
 ### My Projects💻
 ---
