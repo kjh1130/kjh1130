@@ -31,7 +31,7 @@
 	<table>
 		<tr>
 			<td>
-				<figure style="display: block; text-align: center;">
+				<figure style="display: block; text-align: center; border:2px solid #2e949f;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/>
 					<figcaption>GitHub</figcaption>
 				</figure>
