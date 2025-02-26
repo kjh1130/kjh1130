@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&theme=github_dark&height=300&section=header&text=Hi%20there!%20I'm%20Jihyun%20Kim%20render&fontSize=50" />
 </div>
 
-![reversal](https://capsule-render.vercel.app/api?type=venom&text=Hi%20there!%20I'm%20Jihyun%20Kim&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=github_dark)
+![reversal](https://capsule-render.vercel.app/api?type=venom&text=Hi%20there!%20I'm%20Jihyun%20Kim&fontAlign=30&fontSize=30&descAlign=60&descAlignY=50&theme=github_dark)
 <!--
 **kjh1130/kjh1130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
