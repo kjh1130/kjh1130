@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">STATS</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kjh1130&show_icons=true&theme=radical" height=192px box-sizing= content-box border-style=none background-color=solid white/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kjh1130&show_icons=true&theme=radical&bg_color=ffffff" height=192px />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjh1130&layout=compact" height=192px />
 </div>
