@@ -12,7 +12,7 @@
 ### Contact
 ---
 - GitHub: [JihyunKim](https://github.com/kjh1130)
-- Email: [GMAIL|Jihyun Kim](kimwlgus001130@gmail.com)
+- Email: kimwlgus001130@gmail.com
 
 
 ### About Me
