@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi%20there!%20I'm%20Jihyun%20Kim%20render&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi%20there!%20I'm%20Jihyun%20Kim&fontSize=50"/>
 </div>
 <!--
 **kjh1130/kjh1130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
