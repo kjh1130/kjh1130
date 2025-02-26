@@ -39,31 +39,31 @@
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
-					<figcaption>HTML</figcaption>
+					<div text-align: center>HTML</div>
 				</figure>
 			</td>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
-					<figcaption>CSS</figcaption>
+					<div text-align: center>CSS</div>
 				</figure>
 			</td>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
-					<figcaption>JavaScript</figcaption>
+					<div text-align: center>JavaScript</div>
 				</figure>
 			</td>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
-					<figcaption>React</figcaption>
+					<div text-align: center>React</div>
 				</figure>
 			</td>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
-					<figcaption>Java</figcaption>
+					<div text-align: center>Java</div>
 				</figure>
 			</td>
 		</tr>
@@ -77,25 +77,25 @@
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
-					<figcaption>Python</figcaption>
+					<div text-align: center>Python</div>
 				</figure>
 			</td>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
-					<figcaption>MySQL</figcaption>
+					<div text-align: center>MySQL</div>
 				</figure>
 			</td>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
-					<figcaption>Docker</figcaption>
+					<div text-align: center>Docker</div>
 				</figure>
 			</td>
 			<td>
 				<figure style="display: block; text-align: center;">
 					<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/>
-					<figcaption>C++</figcaption>
+					<div text-align: center>C++</div>
 				</figure>
 			</td>
 		</tr>
