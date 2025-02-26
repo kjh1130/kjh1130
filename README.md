@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="center">STATS</h3>
-
-![Jihyun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjh1130&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjh1130&layout=compact)
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kjh1130&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjh1130&layout=compact" />
