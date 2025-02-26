@@ -9,10 +9,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjh1130&layout=compact&text_color=ffffff&title_color=2e949f&bg_color=00000000&border_color=2e949f" height=192px/>
 </div>
 
+### Contact
+---
+- GitHub: [JihyunKim](https://github.com/kjh1130)
+- Email: [GMAIL|Jihyun Kim](kimwlgus001130@gmail.com)
+
+
 ### About Me
 ---
-#### Contact
-<hr style="border: 0.2px solid #185a9d;">
 
 
 ### Education🏫
