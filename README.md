@@ -27,7 +27,7 @@
 
 ### Skills👨🏻‍💻
 ---
-<div align="center">
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,java,docker,spring, mysql" />
     <br>
