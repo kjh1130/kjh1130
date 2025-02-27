@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjh1130&layout=compact&text_color=ffffff&title_color=2e949f&bg_color=00000000&border_color=2e949f" height=192px/>
 </div>
 
-### Contact
+### 📬Contact
 ---
 - GitHub: [kjh1130](https://github.com/kjh1130)
 - Email: kimwlgus001130@gmail.com
@@ -29,7 +29,7 @@
 ---
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,java,docker,spring,mysql,html,css,js,react,boot" />
+    <img src="https://skillicons.dev/icons?i=github,java,docker,spring,mysql,html,css,js,react" />
   </a>
 </div>
 
