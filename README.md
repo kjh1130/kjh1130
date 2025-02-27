@@ -31,9 +31,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,java,docker,spring, mysql" />
   </a>
-  <a href="https://skillicons.dev">
+  <a2 href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-  </a>
+  </a2>
 </p>
 
 ### My Projects💻
